@@ -1,0 +1,13 @@
+<map id="rm_common::CommandSenderBase&lt; MsgType &gt;" name="rm_common::CommandSenderBase&lt; MsgType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,205,225"/>
+<area shape="rect" id="node2" href="$classrm__common_1_1_header_stamp_command_sender_base.html" title=" " alt="" coords="259,5,497,61"/>
+<area shape="rect" id="node4" href="$classrm__common_1_1_time_stamp_command_sender_base.html" title=" " alt="" coords="257,85,499,126"/>
+<area shape="rect" id="node6" href="$classrm__common_1_1_time_stamp_command_sender_base.html" title=" " alt="" coords="260,150,496,191"/>
+<area shape="rect" id="node8" href="$classrm__common_1_1_time_stamp_command_sender_base.html" title=" " alt="" coords="253,215,503,257"/>
+<area shape="rect" id="node10" href="$classrm__common_1_1_header_stamp_command_sender_base.html" title=" " alt="" coords="259,281,497,322"/>
+<area shape="rect" id="node11" href="$classrm__common_1_1_time_stamp_command_sender_base.html" title=" " alt="" coords="265,346,491,387"/>
+<area shape="rect" id="node3" href="$classrm__common_1_1_vel3_d_command_sender.html" title=" " alt="" coords="551,20,785,47"/>
+<area shape="rect" id="node5" href="$classrm__common_1_1_gimbal_command_sender.html" title=" " alt="" coords="568,85,768,126"/>
+<area shape="rect" id="node7" href="$classrm__common_1_1_shooter_command_sender.html" title=" " alt="" coords="566,150,770,191"/>
+<area shape="rect" id="node9" href="$classrm__common_1_1_chassis_command_sender.html" title=" " alt="" coords="565,215,771,257"/>
+</map>

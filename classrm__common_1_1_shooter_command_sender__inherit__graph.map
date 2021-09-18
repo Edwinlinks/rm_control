@@ -1,0 +1,5 @@
+<map id="rm_common::ShooterCommandSender" name="rm_common::ShooterCommandSender">
+<area shape="rect" id="node1" title=" " alt="" coords="21,184,225,225"/>
+<area shape="rect" id="node2" href="$classrm__common_1_1_time_stamp_command_sender_base.html" title=" " alt="" coords="5,95,241,136"/>
+<area shape="rect" id="node3" href="$classrm__common_1_1_command_sender_base.html" title=" " alt="" coords="23,5,223,47"/>
+</map>
